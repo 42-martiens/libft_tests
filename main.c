@@ -89,5 +89,12 @@ int		main()
 	test_tolower();
 	printf("\n");
 
+	sleep(1);
+	printf(BLUE);
+	printf("%s\n", "TEST FOR STRRCHR");
+	printf(DEFAULT);
+	test_strrchr();
+	printf("\n");
+
 	return (0);
 }

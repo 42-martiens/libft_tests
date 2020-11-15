@@ -1,4 +1,4 @@
-#include "../includes/libft_tests.h"
+#include "libft_tests.h"
 
 int		test_bzero_catch_sigbus()
 {

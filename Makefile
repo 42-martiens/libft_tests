@@ -11,7 +11,8 @@ SRCS		=	main.c \
 				tests/test_isprint.c \
 				tests/test_tolower.c \
 				tests/test_memchr.c \
-				tests/test_strlen.c
+				tests/test_strlen.c \
+				tests/test_strrchr.c
 
 OBJS		=	${SRCS:.c=.o}
 INCLUDES	=	includes
