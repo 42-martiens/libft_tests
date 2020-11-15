@@ -1,5 +1,4 @@
 #include "libft_tests.h"
-#include <ctype.h>
 
 int		test_isalpha()
 {
