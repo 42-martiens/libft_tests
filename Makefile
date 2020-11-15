@@ -14,7 +14,7 @@ SRCS		=	main.c \
 
 OBJS		=	${SRCS:.c=.o}
 INCLUDES	=	includes
-LIBFT_PATH	=	./libft/
+LIBFT_PATH	=	../libft/
 LIBFT		= 	libft.a
 NAME		=	libft_tests
 CC			=	gcc
