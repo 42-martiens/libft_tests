@@ -26,6 +26,7 @@ int		test_memmove(void);
 int		test_memchr(void);
 int		test_isalpha(void);
 int		test_isalnum(void);
+int		test_isascii(void);
 int		test_isprint(void);
 int		test_tolower(void);
 
